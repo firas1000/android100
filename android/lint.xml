@@ -1,0 +1,9 @@
+
+
+<lint>
+    <!-- Example: Disable a specific lint check -->
+    <issue id="UnusedResources" severity="ignore" />
+    
+    <!-- Example: Change severity of a lint check -->
+    <issue id="HardcodedText" severity="warning" />
+</lint>
