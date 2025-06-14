@@ -22,6 +22,8 @@ nix
           pkgs.gcc
           pkgs.gtk3
           pkgs.clang
+          pkgs.pcre2
+
         ];
       }
     );
